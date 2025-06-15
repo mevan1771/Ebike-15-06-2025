@@ -20,7 +20,7 @@ export default function Home() {
       <main className="w-full flex flex-col items-center justify-center pt-32 md:pt-40 pb-10 px-4">
         <div className="glassmorphic max-w-2xl w-full px-8 py-12 rounded-3xl shadow-2xl border border-white/30 dark:border-gray-700/40 flex flex-col items-center text-center backdrop-blur-2xl bg-white/30 dark:bg-gray-900/30 animate-fade-in">
           <h1 className="text-5xl md:text-6xl font-extrabold mb-4 text-white drop-shadow-xl tracking-tight">eBike Tours</h1>
-          <p className="text-lg md:text-2xl text-blue-100 dark:text-blue-200 mb-4 font-medium">Sri Lanka's most scenic rides, powered by adventure.</p>
+          <p className="text-lg md:text-2xl text-blue-100 dark:text-blue-200 mb-4 font-medium">Sri Lanka&apos;s most scenic rides, powered by adventure.</p>
           <p className="text-base md:text-lg text-gray-100 dark:text-gray-200 mb-6 max-w-xl mx-auto">Experience the thrill of discovery and the beauty of nature on our guided eBike tours. Effortless, eco-friendly, and unforgettable.</p>
           <Link href="/booking" className="mt-2 inline-block px-10 py-4 rounded-full bg-blue-600/90 text-white font-bold text-lg shadow-lg hover:bg-blue-700/90 transition-all backdrop-blur-md">Book a Tour</Link>
         </div>
