@@ -56,15 +56,6 @@ export default function Home() {
         </div>
       </section>
       <footer className="w-full text-center py-6 text-gray-500 text-sm mt-auto z-10 bg-transparent">&copy; {new Date().getFullYear()} eBike Tours. All rights reserved.</footer>
-      <style jsx global>{`
-        .animate-fade-in {
-          animation: fadeIn 1.2s cubic-bezier(0.4,0,0.2,1) both;
-        }
-        @keyframes fadeIn {
-          from { opacity: 0; transform: translateY(40px); }
-          to { opacity: 1; transform: none; }
-        }
-      `}</style>
     </div>
   );
 }
