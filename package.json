@@ -1,5 +1,6 @@
 {
   "name": "ebike-tour",
+  "description": "A modern, glassmorphic eBike tour booking website optimized for Vercel.",
   "version": "0.1.0",
   "private": true,
   "scripts": {
